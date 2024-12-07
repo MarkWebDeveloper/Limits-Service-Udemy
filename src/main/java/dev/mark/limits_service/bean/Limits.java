@@ -1,4 +1,4 @@
-package dev.mark.limits_service.limitsservice.bean;
+package dev.mark.limits_service.bean;
 
 public class Limits {
     private int minimum;
